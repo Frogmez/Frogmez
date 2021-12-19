@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frogmez
+- 👋 Hi, I’m @Frogmez Developer
 - 👀 I’m interested in VB.NET Project
 - 🌱 I’m currently learning VB.NET
 - 💞️ I’m looking to collaborate on ...
