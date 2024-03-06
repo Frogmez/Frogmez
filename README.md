@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frogmez Developer
-- 📫 How to reach me : Send message to omesh@anonymez.com
+- 📫 How to reach me : Send message to https://t.me/ramaomesh
 
 <!---
 Frogmez/Frogmez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
